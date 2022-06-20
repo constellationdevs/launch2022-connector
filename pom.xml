@@ -11,7 +11,7 @@
     <groupId>coop.constellation.connectorservices</groupId>
     <artifactId>LaunchConnector</artifactId>           <!-- must match the portal project name -->
     <version>1.0</version>
-    <name>starter-connector</name>
+    <name>LaunchConnector</name>
     <description>Boilerplate starter connector</description>
 
     <parent>

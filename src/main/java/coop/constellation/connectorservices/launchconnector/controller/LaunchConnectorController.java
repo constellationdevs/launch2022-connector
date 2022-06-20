@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 @CrossOrigin
 @Controller
 @AllArgsConstructor
-@RequestMapping("/externalConnector/LaunchConnector/1.0")
+@RequestMapping("/externalConnector/LaunchConnector/1.0.0")
 public class LaunchConnectorController extends ConnectorControllerBase {
     
 
